@@ -1,0 +1,28 @@
+name: kimhalliday
+favicon: null
+layout_spectrum: 0.9190384072717279
+typography_spectrum: 0.7696300516836345
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5737276314757764
+  lightness: 0.7126177810132504
+  saturation: 0.7915335593279451
+  rhythmicContrast: 0.6283959303982556
+purpose: []
