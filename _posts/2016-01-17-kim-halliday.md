@@ -1,29 +1,32 @@
 ---
-author: []
+author:
+  - name: knowmebettermusic
+    url: 'https://knowmebettermusic.wordpress.com/author/knowmebettermusic/'
+    avatar: {}
 related: []
 publisher:
-  url: 'http://www.imdb.com'
-  name: IMDb
-  favicon: 'http://ia.media-imdb.com/images/G/01/imdb/images/desktop-favicon-2165806970._CB379390718_.ico'
-  domain: www.imdb.com
+  url: 'http://knowmebettermusic.wordpress.com'
+  name: Know Me Better Music
+  favicon: 'https://s2.wp.com/i/favicon.ico'
+  domain: knowmebettermusic.wordpress.com
 keywords:
-  - violin
-  - '2016'
-  - composer
   - music
-  - golden
-  - revenant
-  - globe
-  - psychobilly
-  - ska
-  - prog
-description: 'Kim Halliday, Composer: Credo. Kim is a composer and musician working in London, UK. He began playing the violin at age 7, took up the guitar and dropped the violin (although he kept the bow) at 13, and spent his early teens trying to become Jimmy Page.'
+  - scene
+  - venues
+  - albums
+  - write
+  - favourite
+  - bands
+  - guitar
+  - like
+  - people
+description: '1. How did you get your initial start in music? You need to know that I was growing up in the late 60s and early 70s, and so being in a band was an act of rebellion rather than a career choice! So I learned to play the guitar to impress more girls and to...'
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.imdb.com/name/nm1527023/?ref_=fn_al_nm_1'
+isBasedOnUrl: 'https://knowmebettermusic.wordpress.com/2015/01/09/kim-halliday/'
 title: Kim Halliday
-datePublished: '2016-01-17T19:39:20.639Z'
-dateModified: '2016-01-17T19:30:11.266Z'
+datePublished: '2016-01-17T19:39:37.288Z'
+dateModified: '2016-01-17T19:35:42.369Z'
 sourcePath: _posts/2016-01-17-kim-halliday.md
 published: true
 inFeed: true
@@ -33,4 +36,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Kim Halliday</h1><p>Kim Halliday&amp;comma; Composer&amp;colon; Credo&amp;period; Kim is a composer and musician working in London&amp;comma; UK&amp;period; He began playing the violin at age 7&amp;comma; took up the guitar and dropped the violin &amp;lpar;although he kept the bow&amp;rpar; at 13&amp;comma; and spent his early teens trying to become Jimmy Page&amp;period;</p><img src="http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._CB306318125_.png" /></article>
+<article style=""><h1>Kim Halliday</h1><p>1&amp;period; How did you get your initial start in music&amp;quest; You need to know that I was growing up in the late 60s and early 70s&amp;comma; and so being in a band was an act of rebellion rather than a career choice&amp;excl; So I learned to play the guitar to impress more girls and to&amp;period;&amp;period;&amp;period;</p><img src="https://i2.wp.com/knowmebettermusic.files.wordpress.com/2015/01/cover-image.jpg?fit=440%2C330" /></article>
