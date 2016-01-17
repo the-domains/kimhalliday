@@ -1,6 +1,6 @@
 name: kimhalliday
 favicon: null
-layout_spectrum: 0.88954
+layout_spectrum: 0.7175
 typography_spectrum: 0
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#251b11'
   brandStrength: 0.375
   lightness: 0.7126177810132504
-  saturation: 0.25
+  saturation: 0.125
   rhythmicContrast: 0.6283959303982556
 purpose: []
