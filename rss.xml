@@ -4,15 +4,8 @@
         <description><![CDATA[kimhalliday]]></description>
         <link>https://thegrid.ai/kimhalliday/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 19:40:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2016 19:39:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kimhalliday/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA["From Earth" - twobellsproductions]]></title>
-            <description><![CDATA[<article><h1>"From Earth" - twobellsproductions</h1><p>Official website for London based production company Two Bells Productions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bce86f3e0c1e1359d1f8875cb7b51561975cdd70.jpg"></article>]]></description>
-            <link>http://www.twobellsproductions.com/from-earth/4584985289</link>
-            <guid isPermaLink="false">1814551a-ca2d-4d84-9f59-da95c5c447bc</guid>
-            <pubDate>Sun, 17 Jan 2016 19:39:20 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.raindance.org/wp-content/uploads/music_image-780x400.jpg">]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.youtube.com/watch?v=8Lk9VSBlWy4</link>
             <guid isPermaLink="false">aa38572d-341d-4da6-b730-79b8c2c88029</guid>
             <pubDate>Sun, 17 Jan 2016 15:50:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Halflight is on Spotify]]></title>
+            <description><![CDATA[<article><h1>Halflight is on Spotify</h1><p>You can hear tracks from Halflight on Spotify at</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7527569d8b4b3e4cc5d0d597b48c015b6ba9faa9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kimhalliday/halflight-is-on-spotify/index.html</link>
+            <guid isPermaLink="false">5b856f17-05de-4806-aff2-f4f79b2fac55</guid>
+            <pubDate>Sun, 17 Jan 2016 15:41:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
