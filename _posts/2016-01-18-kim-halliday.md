@@ -17,7 +17,7 @@ keywords:
   - ska
   - prog
 description: 'Kim Halliday, Composer: Credo. Kim is a composer and musician working in London, UK. He began playing the violin at age 7, took up the guitar and dropped the violin (although he kept the bow) at 13, and spent his early teens trying to become Jimmy Page.'
-datePublished: '2016-01-18T20:49:15.543Z'
+datePublished: '2016-01-18T20:49:15.561Z'
 dateModified: '2016-01-18T20:49:09.853Z'
 author: []
 related: []
