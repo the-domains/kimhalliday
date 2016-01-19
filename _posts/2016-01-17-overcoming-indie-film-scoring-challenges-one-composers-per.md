@@ -17,7 +17,7 @@ keywords:
   - shorts
   - scores
 description: 'Many film composers learn their trade by scoring short films. Many continue to score short films, and many never get an opportunity to score a full feature. The truth is that there are many challenges with a short - how do you get coherent themes into so few cues, for example, and how do you establish a style in a short piece?'
-datePublished: '2016-01-19T19:46:03.485Z'
+datePublished: '2016-01-19T19:46:03.515Z'
 dateModified: '2016-01-19T19:45:50.990Z'
 author:
   - name: Kim Halliday
