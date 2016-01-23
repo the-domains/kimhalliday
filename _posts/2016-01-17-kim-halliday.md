@@ -1,14 +1,9 @@
 ---
-author:
-  - name: knowmebettermusic
-    url: 'https://knowmebettermusic.wordpress.com/author/knowmebettermusic/'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://knowmebettermusic.wordpress.com'
-  name: Know Me Better Music
-  favicon: 'https://s2.wp.com/i/favicon.ico'
-  domain: knowmebettermusic.wordpress.com
+inFeed: false
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - music
   - scene
@@ -21,17 +16,24 @@ keywords:
   - like
   - people
 description: '1. How did you get your initial start in music? You need to know that I was growing up in the late 60s and early 70s, and so being in a band was an act of rebellion rather than a career choice! So I learned to play the guitar to impress more girls and to...'
-inLanguage: en
+datePublished: '2016-01-23T16:43:29.730Z'
+dateModified: '2016-01-23T11:08:25.765Z'
+author:
+  - name: knowmebettermusic
+    url: 'https://knowmebettermusic.wordpress.com/author/knowmebettermusic/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'https://knowmebettermusic.wordpress.com/2015/01/09/kim-halliday/'
 title: Kim Halliday
-datePublished: '2016-01-17T19:39:37.288Z'
-dateModified: '2016-01-17T19:35:42.369Z'
 sourcePath: _posts/2016-01-17-kim-halliday.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Know Me Better Music
+  domain: knowmebettermusic.wordpress.com
+  url: 'http://knowmebettermusic.wordpress.com'
+  favicon: 'https://s2.wp.com/i/favicon.ico'
+url: kim-halliday/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
