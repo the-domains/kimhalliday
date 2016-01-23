@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.electronicmusicmall.com'
-  name: Electronicmusicmall
-  favicon: null
-  domain: www.electronicmusicmall.com
+inFeed: false
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - music
   - films
@@ -18,17 +16,21 @@ keywords:
   - parma
   - art
 description: '19.06.13 - on release of Birdsong In Mist My memories of being very small seem to be accompanied by a soundtrack provided by the Beatles - I remember seeing the Our World broadcast of All You Need Is Love, for example, when I was 6 years old.'
-inLanguage: en
+datePublished: '2016-01-23T16:43:44.933Z'
+dateModified: '2016-01-23T11:09:18.689Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.electronicmusicmall.com/Html/interviewhalliday.htm'
 title: Morpheus Music Interviews - Kim Halliday
-datePublished: '2016-01-17T19:39:05.568Z'
-dateModified: '2016-01-17T19:35:09.084Z'
 sourcePath: _posts/2016-01-17-morpheus-music-interviews-kim-halliday.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Electronicmusicmall
+  domain: www.electronicmusicmall.com
+  url: 'http://www.electronicmusicmall.com'
+  favicon: null
+url: morpheus-music-interviews-kim-halliday/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
