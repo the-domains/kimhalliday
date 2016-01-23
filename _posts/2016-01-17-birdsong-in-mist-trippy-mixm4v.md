@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - duration
   - views
@@ -35,13 +35,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=8Lk9VSBlWy4'
 title: Birdsong In Mist (Trippy Mix).m4v
-datePublished: '2016-01-17T15:50:47.634Z'
-dateModified: '2016-01-17T15:49:53.020Z'
+datePublished: '2016-01-23T16:47:42.693Z'
+dateModified: '2016-01-23T09:09:11.714Z'
 sourcePath: _posts/2016-01-17-birdsong-in-mist-trippy-mixm4v.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
