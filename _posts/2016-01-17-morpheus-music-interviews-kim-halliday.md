@@ -16,7 +16,7 @@ keywords:
   - parma
   - art
 description: '19.06.13 - on release of Birdsong In Mist My memories of being very small seem to be accompanied by a soundtrack provided by the Beatles - I remember seeing the Our World broadcast of All You Need Is Love, for example, when I was 6 years old.'
-datePublished: '2016-01-23T16:43:44.992Z'
+datePublished: '2016-01-23T16:43:45.009Z'
 dateModified: '2016-01-23T11:09:18.689Z'
 author: []
 related: []
