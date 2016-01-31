@@ -1,6 +1,6 @@
 name: kimhalliday
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.31683
 typography_spectrum: 0.25823
 title: 'kim halliday - composer & musician'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#9e98a2'
     - '#686461'
     - '#fefefe'
-  brandStrength: 0.75
-  lightness: 0.5625
-  saturation: 0
-  rhythmicContrast: 1
+  brandStrength: 0.375
+  lightness: 0.75
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
