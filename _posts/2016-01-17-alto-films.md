@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.altofilms.com'
-  name: Altofilms
-  favicon: null
-  domain: www.altofilms.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.altofilms.com/'
+inLanguage: en
+starred: false
 keywords:
   - films
   - doula
@@ -18,19 +17,22 @@ keywords:
   - buring
   - guerilla
 description: 'Welcome to Alto Films, an independent UK film production company dedicated to making innovative genre films & documentaries.'
-inLanguage: en
+datePublished: '2016-02-13T16:24:18.277Z'
+dateModified: '2016-02-13T16:24:11.105Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.altofilms.com/'
 title: Alto Films
-datePublished: '2016-01-17T19:39:20.784Z'
-dateModified: '2016-01-17T19:31:41.432Z'
 sourcePath: _posts/2016-01-17-alto-films.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Altofilms
+  domain: www.altofilms.com
+  url: 'http://www.altofilms.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Alto Films</h1><p>Welcome to Alto Films&amp;comma; an independent UK film production company dedicated to making innovative genre films &amp; documentaries&amp;period;</p><img src="http://www.altofilms.com/7210_article.jpg" /></article>
+<article style=""><h1>Alto Films</h1><p>Alto Films</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b21346b09d8ce4de8fc05bd07cfd2404f8d26eb.jpg" /></article>
