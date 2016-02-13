@@ -1,5 +1,8 @@
+name: 'kim halliday - composer & musician'
+favicon: null
+layout_spectrum: 0.31683
+typography_spectrum: 0.4605735
 title: 'kim halliday - composer & musician'
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.375
-  brandStrength: 0.375
-  rhythmicContrast: 0.5
-  brandColors:
-    - '#000000'
-    - '#282a16'
-    - '#9e98a2'
-    - '#686461'
-    - '#fefefe'
-  lightness: 0.75
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-name: kimhalliday
-favicon: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.4605735
-layout_spectrum: 0.31683
+color:
+  brandColors:
+    - '#c7aa91'
+    - '#000000'
+    - '#a26854'
+    - '#241c1a'
+    - '#ffd6c3'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
+purpose: []
