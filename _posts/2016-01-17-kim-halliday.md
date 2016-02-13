@@ -1,27 +1,25 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'http://www.imdb.com/name/nm1527023/?ref_=fn_al_nm_1'
 inLanguage: en
 starred: false
 keywords:
+  - violin
+  - '2016'
+  - composer
   - music
-  - scene
-  - venues
-  - albums
-  - write
-  - favourite
-  - bands
-  - guitar
-  - like
-  - people
-description: '1. How did you get your initial start in music? You need to know that I was growing up in the late 60s and early 70s, and so being in a band was an act of rebellion rather than a career choice! So I learned to play the guitar to impress more girls and to...'
-datePublished: '2016-01-23T16:43:29.730Z'
-dateModified: '2016-01-23T11:08:25.765Z'
-author:
-  - name: knowmebettermusic
-    url: 'https://knowmebettermusic.wordpress.com/author/knowmebettermusic/'
-    avatar: {}
+  - golden
+  - revenant
+  - globe
+  - psychobilly
+  - ska
+  - prog
+description: 'Kim Halliday, Composer: IMDb page'
+datePublished: '2016-02-13T16:28:55.856Z'
+dateModified: '2016-02-13T16:28:53.368Z'
+author: []
 related: []
 app_links: []
 title: Kim Halliday
@@ -29,13 +27,12 @@ sourcePath: _posts/2016-01-17-kim-halliday.md
 published: true
 authors: []
 publisher:
-  name: Know Me Better Music
-  domain: knowmebettermusic.wordpress.com
-  url: 'http://knowmebettermusic.wordpress.com'
-  favicon: 'https://s2.wp.com/i/favicon.ico'
-url: kim-halliday/index.html
+  name: IMDb
+  domain: www.imdb.com
+  url: 'http://www.imdb.com'
+  favicon: 'http://ia.media-imdb.com/images/G/01/imdb/images/desktop-favicon-2165806970._CB379390718_.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Kim Halliday</h1><p>1&amp;period; How did you get your initial start in music&amp;quest; You need to know that I was growing up in the late 60s and early 70s&amp;comma; and so being in a band was an act of rebellion rather than a career choice&amp;excl; So I learned to play the guitar to impress more girls and to&amp;period;&amp;period;&amp;period;</p><img src="https://i2.wp.com/knowmebettermusic.files.wordpress.com/2015/01/cover-image.jpg?fit=440%2C330" /></article>
+<article style=""><h1>Kim Halliday</h1><p>Kim Halliday&amp;comma; Composer&amp;colon; Credo&amp;period; Kim is a composer and musician working in London&amp;comma; UK&amp;period; He began playing the violin at age 7&amp;comma; took up the guitar and dropped the violin &amp;lpar;although he kept the bow&amp;rpar; at 13&amp;comma; and spent his early teens trying to become Jimmy Page&amp;period;</p><img src="http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._CB306318125_.png" /></article>
