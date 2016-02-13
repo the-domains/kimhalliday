@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Tracks from Kim's album Halflight are available on Spotify"
-datePublished: '2016-01-17T15:41:13.419Z'
-dateModified: '2016-01-17T15:40:46.981Z'
+datePublished: '2016-02-13T18:43:11.078Z'
+dateModified: '2016-02-13T15:39:39.484Z'
 title: Halflight is on Spotify
 author: []
 sourcePath: _posts/2016-01-07-halflight-is-on-spotify.md
