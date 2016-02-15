@@ -4,7 +4,7 @@
         <description><![CDATA[kim halliday - composer & musician]]></description>
         <link>https://thegrid.ai/kimhalliday/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 19:51:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 21:32:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kimhalliday/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[#MurderSelfie Score wins Independent Horror Movies Prize!]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kimhalliday/8ca6d93d-c9a9-4bb2-98c0-d5d18071be50/index.html</link>
             <guid isPermaLink="false">8ca6d93d-c9a9-4bb2-98c0-d5d18071be50</guid>
             <pubDate>Sat, 13 Feb 2016 16:33:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Credits]]></title>
+            <description><![CDATA[<article><h1>Credits</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/kimhalliday/credits/index.html</link>
+            <guid isPermaLink="false">187aa1c2-b50f-4479-b6f1-cfa7eb33e8da</guid>
+            <pubDate>Mon, 15 Feb 2016 21:32:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Credo movie trailer]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.altofilms.com/</link>
             <guid isPermaLink="false">a9244c6d-47cb-4ce2-967d-cba5f2dbe5df</guid>
             <pubDate>Sat, 13 Feb 2016 16:24:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kim Halliday]]></title>
-            <description><![CDATA[<article><h1>Kim Halliday</h1><p>Kim Halliday, Composer: Credo. Kim is a composer and musician working in London, UK. He began playing the violin at age 7, took up the guitar and dropped the violin (although he kept the bow) at 13, and spent his early teens trying to become Jimmy Page.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/619c1426ac5d8c197e938dc6d40d0e2eeb2c0232.png"></article>]]></description>
-            <link>http://www.imdb.com/name/nm1527023/?ref_=fn_al_nm_1</link>
-            <guid isPermaLink="false">54faa29e-e2a5-4bdf-8395-f44eb00551b5</guid>
-            <pubDate>Sat, 13 Feb 2016 16:28:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
