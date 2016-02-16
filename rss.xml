@@ -4,8 +4,15 @@
         <description><![CDATA[kim halliday - composer & musician]]></description>
         <link>http://www.kimhalliday.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 20:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 21:22:40 GMT</lastBuildDate>
         <atom:link href="http://www.kimhalliday.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I like to drink wine more than I used to...]]></title>
+            <description><![CDATA[<article><h1>I like to drink wine more than I used to...</h1><p>So here’s the deal:</p></article>]]></description>
+            <link>http://www.kimhalliday.com/i-like-to-drink-wine-more-than-i-used-to/index.html</link>
+            <guid isPermaLink="false">866cb7c9-1291-4737-8f3e-752b8f701236</guid>
+            <pubDate>Tue, 16 Feb 2016 21:22:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Credits]]></title>
             <description><![CDATA[<article><h1>Credits</h1><p></p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.kimhalliday.com/halflight-is-on-spotify/index.html</link>
             <guid isPermaLink="false">5b856f17-05de-4806-aff2-f4f79b2fac55</guid>
             <pubDate>Sat, 13 Feb 2016 18:47:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alto Films]]></title>
-            <description><![CDATA[<article><h1>Alto Films</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc05e0c501d041843d04640e3a6607e4792e6fe6.jpg"></article>]]></description>
-            <link>http://www.altofilms.com/</link>
-            <guid isPermaLink="false">a9244c6d-47cb-4ce2-967d-cba5f2dbe5df</guid>
-            <pubDate>Sat, 13 Feb 2016 16:24:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
