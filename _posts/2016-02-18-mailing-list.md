@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-18T21:13:18.678Z'
-dateModified: '2016-02-18T21:13:15.487Z'
+datePublished: '2016-02-18T21:42:45.794Z'
+dateModified: '2016-02-18T21:19:44.404Z'
 title: Mailing List
 author: []
+sourcePath: _posts/2016-02-18-mailing-list.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-18-mailing-list.md
-published: true
 _type: MediaObject
 
 ---
