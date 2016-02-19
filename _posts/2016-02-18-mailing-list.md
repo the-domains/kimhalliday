@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-19T10:14:11.998Z'
-dateModified: '2016-02-19T10:13:49.167Z'
+datePublished: '2016-02-19T13:27:49.440Z'
+dateModified: '2016-02-19T10:14:21.833Z'
 title: Mailing List
 author: []
 sourcePath: _posts/2016-02-18-mailing-list.md
