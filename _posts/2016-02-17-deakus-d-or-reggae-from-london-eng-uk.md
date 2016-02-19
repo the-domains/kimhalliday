@@ -17,8 +17,8 @@ keywords:
   - genres
   - trademark
 description: 'Reggae music, lyrics, and videos from London, ENG, UK on ReverbNation'
-datePublished: '2016-02-17T22:14:40.277Z'
-dateModified: '2016-02-17T21:38:08.227Z'
+datePublished: '2016-02-19T15:36:20.209Z'
+dateModified: '2016-02-19T13:37:11.636Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-Kim's Remix on Reverbnation
-
-<article style=""><h1>Deakus D &amp;vert; Reggae from London&amp;comma; ENG&amp;comma; UK</h1><p>Reggae music&amp;comma; lyrics&amp;comma; and videos from London&amp;comma; ENG&amp;comma; UK on ReverbNation</p><img src="https://gp1.wac.edgecastcdn.net/802892/production_public/Artist/4735834/image/bqnlpfxwxx.jpg" /></article>
+<article style=""><h1>Tangent Remix available</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5abb13e7fccb0648ea78119687d7cc2015987e2.jpg" /></article>
