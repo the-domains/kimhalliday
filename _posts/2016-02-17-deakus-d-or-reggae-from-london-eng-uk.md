@@ -17,8 +17,8 @@ keywords:
   - genres
   - trademark
 description: 'Reggae music, lyrics, and videos from London, ENG, UK on ReverbNation'
-datePublished: '2016-02-19T17:14:06.916Z'
-dateModified: '2016-02-19T15:36:27.480Z'
+datePublished: '2016-02-19T19:07:16.863Z'
+dateModified: '2016-02-19T18:59:17.491Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Tangent Remix available</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5abb13e7fccb0648ea78119687d7cc2015987e2.jpg" /></article>
+<article style=""><h1>Tangent Remix available</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e28976f9448eb30b1ab3dfef444b4b561055175.jpg" /></article>
