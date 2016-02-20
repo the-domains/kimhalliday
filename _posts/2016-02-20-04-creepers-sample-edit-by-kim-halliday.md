@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Music from Kim Halliday - www.kimhalliday.com
-datePublished: '2016-02-20T19:24:03.505Z'
-dateModified: '2016-02-20T19:24:01.652Z'
+datePublished: '2016-02-20T19:28:35.037Z'
+dateModified: '2016-02-20T19:28:32.678Z'
 author:
   - name: Kim Halliday
     url: 'http://soundcloud.com/kim-halliday'
