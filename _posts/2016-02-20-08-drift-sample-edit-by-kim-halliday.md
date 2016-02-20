@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Music from Kim Halliday - www.kimhalliday.com
-datePublished: '2016-02-20T09:41:28.270Z'
-dateModified: '2016-02-20T09:37:22.800Z'
+datePublished: '2016-02-20T09:41:59.238Z'
+dateModified: '2016-02-20T09:41:54.196Z'
 author:
   - name: Kim Halliday
     url: 'http://soundcloud.com/kim-halliday'
@@ -52,14 +52,14 @@ app_links:
     namespace: google
     type: ios
 title: 08 Drift Sample Edit by Kim Halliday
+sourcePath: _posts/2016-02-20-08-drift-sample-edit-by-kim-halliday.md
+published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-sourcePath: _posts/2016-02-20-08-drift-sample-edit-by-kim-halliday.md
-published: true
 _type: AudioObject
 _context: 'http://schema.org'
 
