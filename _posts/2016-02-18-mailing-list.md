@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-19T17:14:20.914Z'
-dateModified: '2016-02-19T15:36:59.993Z'
+datePublished: '2016-02-20T08:43:45.131Z'
+dateModified: '2016-02-19T18:59:46.833Z'
 title: Mailing List
 author: []
 sourcePath: _posts/2016-02-18-mailing-list.md
@@ -22,4 +22,4 @@ publisher:
 _type: MediaObject
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5d28dfe2ef5bbf2bfc6468e92e7358a18d257cd.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccdfc0034f0f3714a3e167f24d82e518229b3251.jpg)
