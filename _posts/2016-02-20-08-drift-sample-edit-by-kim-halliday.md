@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Music from Kim Halliday - www.kimhalliday.com
-datePublished: '2016-02-20T09:41:59.238Z'
-dateModified: '2016-02-20T09:41:54.196Z'
+datePublished: '2016-02-20T17:57:18.985Z'
+dateModified: '2016-02-20T17:56:56.691Z'
 author:
   - name: Kim Halliday
     url: 'http://soundcloud.com/kim-halliday'
@@ -64,4 +64,4 @@ _type: AudioObject
 _context: 'http://schema.org'
 
 ---
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F247913625%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fkim-halliday%2F08-drift-sample-edit&amp;image=http%3A%2F%2Fa1.sndcdn.com%2Fimages%2Ffb_placeholder.png%3F1455807820&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c1b01280d7b04ad5e0434f260184783e07ca0fe.jpg)
