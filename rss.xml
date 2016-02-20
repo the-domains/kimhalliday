@@ -7,6 +7,13 @@
         <lastBuildDate>Sat, 20 Feb 2016 09:43:04 GMT</lastBuildDate>
         <atom:link href="http://www.kimhalliday.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Creepers Sample Edit by Kim Halliday]]></title>
+            <description><![CDATA[<article><h1>Creepers Sample Edit by Kim Halliday</h1><p>Music from Kim Halliday - www.kimhalliday.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/718cbc8a7ddbd130745076abb69ea31a4a7b1d45.png"></article>]]></description>
+            <link>https://soundcloud.com/kim-halliday/04-creepers-sample-edit</link>
+            <guid isPermaLink="false">0ae4a393-5683-4163-9889-80360dd2e186</guid>
+            <pubDate>Sat, 20 Feb 2016 09:36:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[08 Drift Sample Edit by Kim Halliday]]></title>
             <description><![CDATA[<article><h1>08 Drift Sample Edit by Kim Halliday</h1><p>Music from Kim Halliday - www.kimhalliday.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/718cbc8a7ddbd130745076abb69ea31a4a7b1d45.png"></article>]]></description>
             <link>https://soundcloud.com/kim-halliday/08-drift-sample-edit</link>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=AX8aSGx1Emg</link>
             <guid isPermaLink="false">b48b3c89-020d-4ca3-9fcc-e7539c12367f</guid>
             <pubDate>Sat, 13 Feb 2016 19:50:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7Deaths]]></title>
-            <description><![CDATA[<article><h1>7Deaths</h1><p>A video for 7 Deaths by Kim Halliday - available 20 Oct 2014 on iTunes</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b64b0055b3c44548569b3b3af5e08155ac334de6.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=TjYEVvFXiyg</link>
-            <guid isPermaLink="false">f5cd86a7-1aac-4281-a52c-f74e25d39583</guid>
-            <pubDate>Sat, 13 Feb 2016 19:41:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
