@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://soundcloud.com/kim-halliday/04-creepers-sample-edit'
 inLanguage: null
 starred: false
 keywords: []
-description: Music from Kim Halliday - www.kimhalliday.com
-datePublished: '2016-02-20T19:28:35.037Z'
-dateModified: '2016-02-20T19:28:32.678Z'
+description: ''
+datePublished: '2016-02-21T20:20:30.432Z'
+dateModified: '2016-02-21T09:11:39.677Z'
 author:
   - name: Kim Halliday
     url: 'http://soundcloud.com/kim-halliday'
@@ -51,15 +51,15 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-title: 04 Creepers Sample Edit by Kim Halliday
+title: Creepers Sample Edit by Kim Halliday
+sourcePath: _posts/2016-02-20-04-creepers-sample-edit-by-kim-halliday.md
+published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-sourcePath: _posts/2016-02-20-04-creepers-sample-edit-by-kim-halliday.md
-published: true
 _type: AudioObject
 _context: 'http://schema.org'
 
