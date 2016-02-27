@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T08:17:43.165Z'
-dateModified: '2016-02-24T12:46:29.137Z'
+datePublished: '2016-02-27T18:38:53.048Z'
+dateModified: '2016-02-26T08:17:49.248Z'
 title: Find Kim on Spotify
 author: []
 sourcePath: _posts/2016-02-24-find-kim-on-spotify.md
